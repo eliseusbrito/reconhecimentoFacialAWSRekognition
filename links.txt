@@ -1,0 +1,2 @@
+pasta: aws-rekognition-example
+https://github.com/phang98/aws-rekognition-example
