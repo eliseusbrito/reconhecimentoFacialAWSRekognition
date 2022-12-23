@@ -1,14 +1,0 @@
-
-w
-java:S2133"\Remove this object instantiation and use "DetectLabelsFacesExampleImageBytes.class" instead.(â‹¾‡úÿÿÿÿ
-V	java:S1253"<This block of commented-out lines of code should be removed.(öªÛÁþÿÿÿÿ
-N	java:S106B"9Replace this use of System.out or System.err by a logger.(º‹„«
-N	java:S106D"9Replace this use of System.out or System.err by a logger.(‚°Í‚
-N	java:S106X"9Replace this use of System.out or System.err by a logger.(‹ï
-S	java:S106Z"9Replace this use of System.out or System.err by a logger.(£³ºœþÿÿÿÿ
-?
-java:S1128")Remove this unused import 'java.io.File'.(†Ð¥Å
-J
-java:S1128"4Remove this unused import 'java.io.FileInputStream'.(˜³ÉÓ
-L
-java:S1144L"1Remove this unused private "displayLabel" method.(†åóÔüÿÿÿÿ

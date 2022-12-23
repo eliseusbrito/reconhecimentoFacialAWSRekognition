@@ -1,9 +1,0 @@
-
-X	java:S125)"<This block of commented-out lines of code should be removed.(‚ãÅ¼8Ğ‰©†Ó0
-Y
-java:S1155=">Use isEmpty() to check whether the collection is empty or not.(¤¸³Äùÿÿÿÿ
-N	java:S106>"9Replace this use of System.out or System.err by a logger.(Ä˜‘ª
-N	java:S106@"9Replace this use of System.out or System.err by a logger.(ÇËŠ
-S	java:S106E"9Replace this use of System.out or System.err by a logger.(äøóáøÿÿÿÿ
-c
-java:S2133X"MRemove this object instantiation and use "CompareFacesExample.class" instead.(·ªÇ£
